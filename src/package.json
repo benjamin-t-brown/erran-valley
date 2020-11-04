@@ -1,0 +1,20 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "node index.js",
+    "analyze": "node analyze.js ../out/master.txt"
+  },
+  "dependencies": {
+    "flesch-kincaid": "^1.0.5",
+    "retext-english": "^3.0.4",
+    "retext-readability": "^6.0.0",
+    "retext-simplify": "^6.0.0",
+    "retext-stringify": "^2.0.4",
+    "unified": "^9.2.0",
+    "unified-stream": "^1.0.6",
+    "vfile-reporter": "^6.0.1"
+  }
+}
