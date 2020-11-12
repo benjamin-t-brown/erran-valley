@@ -1,1 +1,1 @@
-reqire('concat');
+require('./concat');
