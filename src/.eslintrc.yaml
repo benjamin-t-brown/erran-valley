@@ -1,0 +1,21 @@
+extends:
+  - 'eslint:recommended'
+
+env:
+  browser: true
+  node: true
+  mocha: true
+  es6: true
+
+ignorePatterns:
+  - main.js
+
+rules:
+  no-lone-blocks: 0
+  no-throw-literal: 0
+  no-console: 0
+  no-case-declarations: 0
+  no-fallthrough: 0
+  no-sparse-arrays: 0
+  '@typescript-eslint/no-explicit-any': 0
+  '@typescript-eslint/no-var-requires': 0
