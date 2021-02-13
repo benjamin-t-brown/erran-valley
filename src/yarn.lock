@@ -155,7 +155,7 @@ chalk@^4.0.0:
     ansi-styles "^4.1.0"
     supports-color "^7.1.0"
 
-coleman-liau@^1.0.0:
+coleman-liau@^1.0.0, coleman-liau@^1.0.5:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/coleman-liau/-/coleman-liau-1.0.5.tgz#9bc0efacd62a16d22684eadfa4da15c9faf118f8"
   integrity sha512-g4N/LvbIoGP7cq9E8QGrUWkHnhm9DXP0g1+axHIQnmQq/MwwPbBx5dGxQ0GbY5+ojibsIo1Rg0XuYkF+JPr7sw==
@@ -893,7 +893,7 @@ supports-color@^7.1.0:
   dependencies:
     has-flag "^4.0.0"
 
-syllable@^4.0.0:
+syllable@^4.0.0, syllable@^4.1.0:
   version "4.1.0"
   resolved "https://registry.yarnpkg.com/syllable/-/syllable-4.1.0.tgz#aff65382a99c9b125c3f7e3c4dafd86f4b0cd13e"
   integrity sha512-KUiIxtFxV17EEKqLYCHDcwaYxudDTRhX34mfTVYWkWFDsmiNRz1ZumpP3v0lTqsVQs78y3dqlSxkEMRk/SCVYQ==

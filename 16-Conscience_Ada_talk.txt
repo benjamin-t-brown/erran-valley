@@ -2,15 +2,15 @@ For some reason, Ada could not find Conscience.  During Ada's practices, she typ
 
 The front door burst open as Ada kicked it, stepping through and dumping her bags unceremoniously onto the floor.  Without bothering to pull off her coat, she kicked her shoes into the corner and stomped into the kitchen.  Here she found a familiar scene.
 
-Mother sat in her reading chair, posture stiff as she frowned at Father, who's hands where spread wide, supporting him as he leaned aggressively forward on the island.  They both looked sharply at Ada as she entered, abruptly stopping whatever argument they had been having.  Ada stopped too, regarding each of them.
+Mother sat in her reading chair, posture stiff as she frowned at Father, who's hands where spread wide on the counter, supporting his torso as he leaned aggressively forward.  They both looked sharply at Ada as she entered, abruptly stopping whatever argument they had been having.  Ada stopped too, regarding each of them.
 
 Father broke the standoff.  He leaned back, rubbing his hands together, and a smile appeared on beneath his beard.  "Ah, welcome home, Adalais.  Mira and I were having a... discussion."
 
 Mother crossed her legs and sniffed.
 
-"But it's nothing," he continued.  "How was your day."
+"But it's nothing," he continued.  "How was your day?"
 
-Ada gave him a flat stare for a second before responding.  "Good," she said.  "Nothing to report."
+Ada gave him a flat stare for a full second before responding.  "Good," she said, glibly.  "Nothing to report."
 
 "That's it?" Father insisted.  "Come on, you've got to have something.  We don't send you to that expensive school so you can have boring days."  He was obviously just trying to use Ada to change the subject.
 
@@ -48,7 +48,7 @@ Conscience shrugged.  "Yeah.  Sorry I didn't tell you.  You were busy running th
 
 Ada nodded.  "Did you see what happened?"
 
-"No?" Conscience said, raising an eyebrow.
+"No." Conscience said, raising an eyebrow.  "What happened?"
 
 So Ada told her, all about how Laurel had suddenly appeared, how she had found him in a heap on the ground and not recognized him at first.  How he agreed to train her.  When she talked about how Laurel was blind, Conscience interrupted.
 
@@ -62,7 +62,7 @@ Conscience bit her lip and tapped a toe on the carpet.  "What would make him wan
 
 "That's my line," Conscience said.  "But I know you well."  She smirked.  "Too well."
 
-"You do not appear to understand, Conscience.  Laurel said he would train me to play GDL.  This is... this is the greatest thing I could have ever hoped for!  I should be elated.  I should be excited."
+"You do not appear to understand, Conscience.  Laurel said he would train me to play GDL.  This is... this is the greatest thing I could have ever hoped for!  I should be elated.  I should be excited!"
 
 "But?" Conscience said. "You're not?"
 
@@ -70,7 +70,7 @@ Conscience bit her lip and tapped a toe on the carpet.  "What would make him wan
 
 Conscience nodded.  "I know what you mean."
 
-They both fell silent at that.  The strong wind outside picked up intensity, rattling the wires hanging from the aparptment complex's flagpole outside the window.  The leafless trees outside cast dancing shadows on the ground, and sometimes they flitted across the carpet in the room.  It seemed the weather too was restless.
+They both fell silent at that.  The strong wind outside picked up intensity, rattling the wires hanging from the apartment complex's flagpole outside the window.  The leafless trees outside cast dancing shadows on the ground, and sometimes they flitted across the carpet in the room.  It seemed the weather too was restless.
 
 "I think," Ada said, looking down at the floor, "that I may be worried Laurel's training will be more difficult than what I have been doing.  It certainly will not be easy, and I have already driven myself to near exhaustion and some injury trying to emulate him."  She looked to Conscience.  "Am I capable of much more?"
 
@@ -78,7 +78,7 @@ They both fell silent at that.  The strong wind outside picked up intensity, rat
 
 "You make it sound so easy.  One does not simply stop worrying."
 
-"It is easy," she said, examining the nails on her left hand.  "You just have a fondness for making things difficult."
+"It IS easy," she said, examining the nails on her left hand.  "You just have a fondness for making things difficult."
 
 "I certainly do not!"
 
@@ -86,9 +86,9 @@ Conscience smirked.  "So are you gonna do it, or do you need me to remind you ab
 
 "Of course I am going to do it!" Ada snapped, tilting her chin up. "I just thought you might want to know I shall be even more tired in the near future.  I will not have time to babysit you anymore."
 
-Conscience seemed very amused by that, though she did not respond
+Conscience seemed very amused by that, though she did not respond.
 
-As Ada readied herself for a few hours of homework, pulling a binder from her desk drawer and flicking on her laptop, Conscience sat on the bed, idly swinging her legs, whistling softly through her teeth.  At one point she sighed, and spoke quietly, "what would you do without me?"
+They settled into the normal evening where Ada tried to cram as much homework into an hour as possible.  Ada pulled a binder from her desk drawer and flicked on her laptop.  Conscience sat on the bed, idly swinging her legs, whistling softly through her teeth.  At one point she sighed, and spoke quietly, "what would you do without me?"
 
 Ada pretended not to hear her.  She needed to focus on her homework.
 
@@ -106,9 +106,11 @@ He nodded and stood.  "Good.  Are you ready to start?"
 
 "Alright then."
 
-That was it.  No fanfare.  No introduction.  What commenced was the hardest physical activity Ada had ever done in her life.  Laurel brought her through a seemingly endless list of various motions and exercises, many of which Ada had never done before, despite having observed and memorized Laurel's own practices.  She struggled heavily through those.   And the ones she had been doing, she had not performed them to the extent that he demanded.  He stand next to her and give terse instructions, and though he could not see her, he rattled off different things to correct so as to not form bad habits.  Correcting them often made the exercises much more difficult.
+That was it.  No fanfare.  No introduction.
 
-After every set, it took Ada ever last ounce of her strength and determination to stand up, wipe sweat from her eyes, and wait for Laurel to bark his next orders.  Her body screamed in protest.  Her legs wobbled.  It would end eventually.  She could not stop.  Not in front of Laurel.  That was unthinkable.  It was the one thing that kept her going.
+What commenced was the hardest physical activity Ada had ever done in her life.  Laurel brought her through a seemingly endless list of various motions and exercises, many of which Ada had never done before, despite having observed and memorized Laurel's own practices.  She struggled heavily through them.   Even the ones she had been doing, she did not appear to perform them to the extent that he demanded.  He stand next to her and give terse instructions, and though he could not see her, he rattled off different things to correct so as to not form bad habits.  Correcting them often made the exercises much more difficult.  Every time he spoke he sounded disappointed.
+
+After every set, it took Ada every last ounce of her strength and determination to stand up, wipe sweat from her eyes, and wait for Laurel to bark his next orders.  Her body screamed in protest.  Her legs wobbled.  It would end eventually.  She could not stop.  Not in front of Laurel.  That was unthinkable.  It was the one thing that kept her going.
 
 "We're done," Laurel said.  His voice was hard, emotionless.
 

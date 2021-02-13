@@ -7,12 +7,17 @@
     "build": "node index.js && yarn analyze",
     "analyze": "node analyze.js ../out/master.txt"
   },
+  "engines": {
+    "node": ">=10.0"
+  },
   "dependencies": {
+    "coleman-liau": "^1.0.5",
     "flesch-kincaid": "^1.0.5",
     "retext-english": "^3.0.4",
     "retext-readability": "^6.0.0",
     "retext-simplify": "^6.0.0",
     "retext-stringify": "^2.0.4",
+    "syllable": "^4.1.0",
     "unified": "^9.2.0",
     "unified-stream": "^1.0.6",
     "vfile-reporter": "^6.0.1"
